@@ -1,0 +1,6 @@
+// infoData.js
+export default [
+  {
+
+  },
+]
